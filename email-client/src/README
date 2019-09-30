@@ -1,0 +1,10 @@
+Download Java Mail API: https://javaee.github.io/javamail/
+Enable sign in from less secure apps in Gmail: https://myaccount.google.com/security
+
+login window instructions:
+username = username
+password = password
+
+in create.java(Line 44,45) and checkingMails.java (Line 17,18)
+username = "yourgmail.com"
+password = "yourGmailPassword"
